@@ -1,4 +1,4 @@
-# python program to create a random array using np.random function
+# python program to create a one dimensional random array using np.random function
 
 import numpy as np
 
