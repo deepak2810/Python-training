@@ -12,4 +12,3 @@ ls = [10,20,30,40]
 # to add an element at the end of the list. we use list.append method.
 ls.append("hlw")
 
-print(ls)
