@@ -1,4 +1,4 @@
-# creating a dictionary.
+# creating a dictionary for my tution fee.
 
 tut = {"aarav":1200,"Priyanshu":500,"mohit":1400}
 
